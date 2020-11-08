@@ -1,0 +1,12 @@
+{
+  "basic": [
+    {
+      "fighter_a": "John Doe",
+      "fighter_b": "Curtis Blow",
+      "happened_on": "2020-01-01",
+      "winner": "fighterA",
+      "result": "TKO",
+      "weight_class": "Lightweight"
+    }
+  ]
+}

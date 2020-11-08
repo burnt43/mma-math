@@ -1,0 +1,22 @@
+{
+  "name": "mma-math",
+  "version": "1.0.0",
+  "description": "crunches the numbers on MMA fights to determine the efficacy of the whether or not 'MMA Math' works.",
+  "main": "main.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/burnt43/mma-math"
+  },
+  "keywords": [
+    "mma",
+    "stats"
+  ],
+  "author": "James Carson",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^8.1.3"
+  }
+}
